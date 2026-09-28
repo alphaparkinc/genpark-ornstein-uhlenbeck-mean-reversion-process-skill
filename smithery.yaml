@@ -1,0 +1,5 @@
+name: genpark-ornstein-uhlenbeck-mean-reversion-process-skill
+description: Ornstein-Uhlenbeck mean-reverting stochastic process with exact transition distributions and Vasicek calibration
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
