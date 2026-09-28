@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-ornstein-uhlenbeck-mean-reversion-process-skill"
+version = "1.0.0"
+description = "Ornstein-Uhlenbeck mean-reverting stochastic process with exact transition distributions and Vasicek calibration"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
