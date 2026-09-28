@@ -1,0 +1,19 @@
+{
+  "name": "genpark-ornstein-uhlenbeck-mean-reversion-process-skill",
+  "version": "1.0.0",
+  "description": "Ornstein-Uhlenbeck mean-reverting stochastic process with exact transition distributions and Vasicek calibration",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "ornstein-uhlenbeck",
+    "mean-reversion",
+    "vasicek-model",
+    "stochastic-processes",
+    "interest-rate-models",
+    "time-series",
+    "python-standard-library",
+    "agent-skills",
+    "markov-processes",
+    "quantitative-finance"
+  ]
+}
